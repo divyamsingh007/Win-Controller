@@ -1,11 +1,11 @@
 # Win-Controller
 A Python-based tool to control basic Windows actions like switching, minimizing, and maximizing windows using hand gestures captured via webcam.
 
-# ✋ Gesture-Based Windows Controller
+# Gesture-Based Windows Controller
 
 A Python-based tool to control basic Windows window management functions like switching, minimizing, and maximizing windows using **hand gestures** captured from a webcam.
 
-## 🧠 Motivation
+## Motivation
 
 Ever felt too lazy to press Alt + Tab?  
 I did.  
@@ -15,7 +15,7 @@ This started as a fun detour while I was learning the MERN stack — and ended u
 
 ---
 
-## 🎯 Features
+## Features
 
 - ✌️ **Peace Sign** → Toggle gesture control (on/off)
 - ✊ **Fist** → Minimize the current window
@@ -26,7 +26,7 @@ This started as a fun detour while I was learning the MERN stack — and ended u
 
 ---
 
-## 🛠️ Tech Stack & Libraries
+## Tech Stack & Libraries
 
 | Tool / Library   | Role                                      |
 |------------------|-------------------------------------------|
